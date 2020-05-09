@@ -21,7 +21,7 @@ parser.add_argument(
 parser.add_argument(
     "-s",
     "--sockets",
-    default=999,
+    default=350,
     help="Number of sockets to use in the test",
     type=int,
 )
